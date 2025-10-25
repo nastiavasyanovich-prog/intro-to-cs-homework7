@@ -1,2 +1,5 @@
-Фігури: ромб, трикутник, прямокутник, квадрат.
-Shapes: ellipse, triangle, rectangle, square.
+ branch1
+Фігури: коло, трикутник, прямокутник, квадрат.
+Фігури: коло, трикутник, прямокутник, квадрат.
+ main
+Shapes: circle, triangle, rectangle, square.
