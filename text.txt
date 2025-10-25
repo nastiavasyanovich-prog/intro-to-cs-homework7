@@ -1,2 +1,5 @@
+ branch1
 Фігури: коло, трикутник, прямокутник, квадрат.
-Shapes: ellipse, triangle, rectangle, square.
+Фігури: коло, трикутник, прямокутник, квадрат.
+ main
+Shapes: circle, triangle, rectangle, square.
